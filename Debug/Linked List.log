@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\MrEvilx\source\repos\Linked List\unsortedlist.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\MrEvilx\source\repos\Linked List\main.cpp(8,10): warning C4101: 'node': unreferenced local variable
+  unsortedlist.cpp
+C:\Users\MrEvilx\source\repos\Linked List\unsortedlist.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Linked List.vcxproj -> C:\Users\MrEvilx\source\repos\Linked List\Debug\Linked List.exe
